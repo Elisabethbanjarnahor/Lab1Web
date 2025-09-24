@@ -4,7 +4,7 @@
 
 **HASIL OUTPUT**
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/45d1e59b-4406-4301-8bd6-dab852cdb833" />
+<img width="959" height="539" alt="image" src="Cuplikan layar 2025-09-24 151258.png" />
 
 # Day1 Belajar HTML
 
